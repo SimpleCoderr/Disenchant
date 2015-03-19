@@ -1,0 +1,8 @@
+# When there are no enchantments on the item
+noEnchantsMessage: '&cThis item has no enchantments to remove...'
+
+# When the item is too expensive for the person to disenchant
+tooExpensiveMessage: '&cYou can not afford this disenchant!'
+
+# When the enchant was successfully removed
+enchantRemovedMessage: '&6Removed the enchantment for the cost of: &e%cost% Levels'

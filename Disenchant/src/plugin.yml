@@ -1,0 +1,14 @@
+name: Disenchant
+version: 1.0.0
+description: Disenchant any enchanted item.
+author: [SimpleCoder]
+main: me.simplecoder.disenchant.Disenchant
+
+commands:
+    disenchant:
+        description: List commands.
+        aliases: [ddisenchant]
+        usage: 'Usage: /<command>'
+    de:
+        description: Disenchants a item.
+        usage: 'Usage: /<command>'
